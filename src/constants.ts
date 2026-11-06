@@ -18,12 +18,12 @@ export const SITE_DATA = {
 
     // Bluesky handle (without the @)
     bluesky: "",
-    linkedin: "https://www.linkedin.com/in/irawan-ww/",
+    linkedin: "[irawan-ww]",
     github: "1r4one",
 
     // Google Scholar ID (found in your Scholar profile URL)
     // Example: https://scholar.google.com/citations?user=YOUR_ID_HERE
-    scholar: "https://scholar.google.com/citations?user=NZjTutYAAAAJ&hl=en&authuser=7",
+    scholar: "[NZjTutYAAAAJ&hl=en&authuser=7]",
 
     // Your email address (use [at] and [dot] to avoid spam bots)
     email: "[irawan[at]perf.cs.tut.ac.jp]",
