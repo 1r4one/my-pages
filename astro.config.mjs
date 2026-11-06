@@ -1,8 +1,5 @@
-// @ts-check
-import { defineConfig } from 'astro/config';
+import { defineConfig } from 'astro/config'
 
-// https://astro.build/config
 export default defineConfig({
-  site: 'https://whydevils.github.io',
-  base: '/astro-scholar/',
-});
+  site: 'https://1r4one.github.io/pages1/',
+})
