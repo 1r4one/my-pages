@@ -6,10 +6,10 @@
 
 export const SITE_DATA = {
     // Your full name as you'd like it displayed
-    name: 'Dr. Beatrix Bumble',
+    name: 'Dr.Eng Irawan Widi Widayat',
 
     // A brief tagline describing your role or expertise (3-5 words/phrases)
-    tagline: "Avian-Feline Fluff Dynamics | Lead Investigator",
+    tagline: "High Performance and Cloud Computing | Researcher",
 
     // Social media handles (username only, not full URL)
     // Set to empty string "" to hide an icon
@@ -18,21 +18,21 @@ export const SITE_DATA = {
 
     // Bluesky handle (without the @)
     bluesky: "",
-    linkedin: "[your-linkedin-template]",
-    github: "whydevils",
+    linkedin: "https://www.linkedin.com/in/irawan-ww/",
+    github: "1r4one",
 
     // Google Scholar ID (found in your Scholar profile URL)
     // Example: https://scholar.google.com/citations?user=YOUR_ID_HERE
-    scholar: "[your-scholar-id]",
+    scholar: "https://scholar.google.com/citations?user=NZjTutYAAAAJ&hl=en&authuser=7",
 
     // Your email address (use [at] and [dot] to avoid spam bots)
-    email: "[your-email-address]",
+    email: "[irawan[at]perf.cs.tut.ac.jp]",
 
     // One-line research tagline used for SEO and social sharing meta tags
     description: "Your one-line research tagline for SEO and social sharing.",
 
     // Base URL of your deployed site (no trailing slash), e.g. "https://your-username.github.io"
     // Used for Open Graph tags. Leave empty if you haven't deployed yet.
-    siteUrl: "https://whydevils.github.io/astro-scholar/",
+    siteUrl: "https://1r4one.github.io/my-pages/",
 };
 
