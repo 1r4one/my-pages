@@ -23,10 +23,10 @@ export const SITE_DATA = {
 
     // Google Scholar ID (found in your Scholar profile URL)
     // Example: https://scholar.google.com/citations?user=YOUR_ID_HERE
-    scholar: "https://scholar.google.com/citations?user=NZjTutYAAAAJ&hl=en&authuser=7",
+    scholar: "[NZjTutYAAAAJ&hl=en&authuser=7]",
 
     // Your email address (use [at] and [dot] to avoid spam bots)
-    email: "irawan[at]perf[dot]cs[dot]tut[dot]ac[dot]jp",
+    email: "[irawan[at]perf[dot]cs[dot]tut[dot]ac[dot]jp]",
 
     // One-line research tagline used for SEO and social sharing meta tags
     description: "Your one-line research tagline for SEO and social sharing.",
