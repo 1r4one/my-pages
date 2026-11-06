@@ -18,15 +18,15 @@ export const SITE_DATA = {
 
     // Bluesky handle (without the @)
     bluesky: "",
-    linkedin: "[irawan-ww]",
+    linkedin: "irawan-ww",
     github: "1r4one",
 
     // Google Scholar ID (found in your Scholar profile URL)
     // Example: https://scholar.google.com/citations?user=YOUR_ID_HERE
-    scholar: "[NZjTutYAAAAJ&hl=en&authuser=7]",
+    scholar: "NZjTutYAAAAJ&hl=en&authuser=7",
 
     // Your email address (use [at] and [dot] to avoid spam bots)
-    email: "[irawan[at]perf.cs.tut.ac.jp]",
+    email: "irawan[at]perf.cs.tut.ac.jp",
 
     // One-line research tagline used for SEO and social sharing meta tags
     description: "Your one-line research tagline for SEO and social sharing.",
