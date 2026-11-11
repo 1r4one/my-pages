@@ -1,3 +1,13 @@
+---
+layout: '../../layouts/BlogPost.astro'
+title: 'Post Title'
+date: '2026-11-11'
+description: 'Transformasi Digital Uji Riksa.'
+tags: ['methodology', 'field-notes']
+---
+
+Post content here.
+
 Berikut desain presentasi 10 menit yang saya rancang untuk Anda, memanfaatkan posisi Anda sebagai *researcher* CS untuk memberi sudut pandang teknis yang kredibel tanpa mendominasi domain audiens.
 
 ---
