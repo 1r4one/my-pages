@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/BlogPost.astro'
-title: 'Field Notes: Transformasi Digital Uji Riksa'
+title: 'Transformasi Digital Uji Riksa'
 date: '2026-11-11'
 description: 'Slide materi poin-poin yang akan disampaikan pada Presentasi 10 menit.'
 tags: ['field-notes', 'methodology', 'monoceros']
