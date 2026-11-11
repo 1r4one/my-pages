@@ -1,12 +1,10 @@
 ---
 layout: '../../layouts/BlogPost.astro'
-title: 'Post Title'
+title: 'Field Notes: Transformasi Digital Uji Riksa'
 date: '2026-11-11'
-description: 'Transformasi Digital Uji Riksa.'
-tags: ['methodology', 'field-notes']
+description: 'Slide materi poin-poin yang akan disampaikan pada Presentasi 10 menit.'
+tags: ['field-notes', 'methodology', 'monoceros']
 ---
-
-Post content here.
 
 Berikut desain presentasi 10 menit yang saya rancang untuk Anda, memanfaatkan posisi Anda sebagai *researcher* CS untuk memberi sudut pandang teknis yang kredibel tanpa mendominasi domain audiens.
 
